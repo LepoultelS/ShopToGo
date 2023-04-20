@@ -1,26 +1,19 @@
 # ShopToGo
 
-## Project setup
+## Création d'une interface pour un test technique (Airweb)
 
-```
-# npm
-npm install
-```
+Télécharger le repository et suivez les instructions ci-après pour installer ce projet en local
 
-### Compiles and hot-reloads for development
+## prérequis
 
-```
-# npm
-npm run dev
-```
+* Installer Node.js 
 
-### Compiles and minifies for production
+## Installation et démarrage du Frontend
 
-```
-# npm
-npm run build
-```
+* Dans un terminal placer vous dans le repertoire ShopToGo
+* Installez toutes les dépendances du projet : `npm i`
+* Démarrez l'application : `npm run dev`
 
-### Customize configuration
+## Testez l'application
+* Ouvrez votre navigateur et allez sur : `http://localhost:3000/`
 
-See [Configuration Reference](https://vitejs.dev/config/).
