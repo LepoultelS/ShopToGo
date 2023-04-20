@@ -2,15 +2,15 @@
 
 ## Création d'une interface pour un test technique (Airweb)
 
-Télécharger le repository et suivez les instructions ci-après pour installer ce projet en local
+Téléchargez le repository et suivez les instructions ci-après pour installer ce projet en local
 
 ## prérequis
 
-* Installer Node.js 
+* Installez Node.js 
 
 ## Installation et démarrage du Frontend
 
-* Dans un terminal placer vous dans le repertoire ShopToGo
+* Dans un terminal, placez vous dans le répertoire ShopToGo
 * Installez toutes les dépendances du projet : `npm i`
 * Démarrez l'application : `npm run dev`
 
